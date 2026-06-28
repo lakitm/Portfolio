@@ -2,7 +2,7 @@
 
 Portfolio of selected work in data analytics, forecasting, statistical modeling, and decision-support systems.
 
-I am a BS Mathematics graduate specializing in Computer Science, with hands-on experience in Python, SQL, data cleaning, machine learning, statistical modeling, forecasting, and dashboard-oriented reporting. My work focuses on transforming messy or operational data into interpretable outputs that can support business, risk, compliance, inventory, public-sector, and operational decision-making.
+BS Mathematics graduate specializing in Computer Science, with hands-on experience in Python, SQL, data cleaning, machine learning, statistical modeling, forecasting, and dashboard-oriented reporting. My work focuses on transforming messy or operational data into interpretable outputs that can support business, risk, compliance, inventory, public-sector, and operational decision-making.
 
 ## Featured Projects
 
