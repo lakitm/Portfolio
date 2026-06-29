@@ -17,4 +17,4 @@ You may not:
 
 Datasets are not included unless explicitly marked as synthetic or public.
 
-For permission requests, contact the repository owner.
+For permission requests, contact me via [gmail](mailto:tamiramlaki@gmail.com).
